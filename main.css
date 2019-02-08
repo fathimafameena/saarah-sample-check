@@ -49,7 +49,7 @@
     padding: 1em;
   }
   .header__menu svg {
-    width: 32px;
+    width: 35px;
     fill: #E0E0E0;
   }
 }
@@ -61,7 +61,7 @@
   }
   .weather {
     order: 1;
-    width: 40%;
+    width: 50%;
   }
 }
 
